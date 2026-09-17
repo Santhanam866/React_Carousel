@@ -1,6 +1,7 @@
 ### Ex05 Image Carousel
-
-### Date:31-08-2026
+## Name : SANTTHANAM S
+## Reg. No. : 212224040293
+### Date:17-09-2026
 
 ### AIM
 
